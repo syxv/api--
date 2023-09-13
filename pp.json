@@ -1,0 +1,81 @@
+[
+    {
+        "model_id": "Ether_Modbus",
+        "serial_no": "L9900000000041784",
+        "device_info": {
+            "name_locale1": "Ether_Modbus",
+            "name_locale2": "Ether_Modbus",
+            "name_locale3": null,
+            "optional_info_1": null,
+            "optional_info_2": null,
+            "optional_info_3": null,
+            "optional_info_4": null,
+            "optional_info_5": null,
+            "optional_info_6": null,
+            "optional_info_7": null,
+            "optional_info_8": null,
+            "optional_info_9": null,
+            "optional_info_10": "",
+            "time_zone": "Asia/Tokyo"
+        },
+        "sensor_list": [
+            {
+                "sensor_id": "M01001AI0001",
+                "sensor_info": {
+                    "sensor_type": "AI",
+                    "data_type": "string",
+                    "name_locale1": "FIA-303PV CLT廃水流量",
+                    "name_locale2": "FIA-303PV CLT廃水流量",
+                    "name_locale3": null,
+                    "unit_locale1": "m3/h",
+                    "unit_locale2": "m3/h",
+                    "unit_locale3": null,
+                    "transform_locale1": null,
+                    "transform_locale2": null,
+                    "transform_locale3": null,
+                    "decimal_num_locale1": 1,
+                    "decimal_num_locale2": 1,
+                    "decimal_num_locale3": null,
+                    "max_value_locale1": 107374182.3,
+                    "max_value_locale2": 107374182.3,
+                    "max_value_locale3": null,
+                    "min_value_locale1": 0,
+                    "min_value_locale2": 0,
+                    "min_value_locale3": null,
+                    "description_locale1": null,
+                    "description_locale2": null,
+                    "description_locale3": null,
+                    "measure_type": "1",
+                    "fixed_length": null,
+                    "time_data_create_flg": true,
+                    "short_term_minutes": null,
+                    "store_converter": null,
+                    "optional_info_1": "{\"datatype2\":\"num_sts\",\"publish\":\"1\",\"data_class\":\"asset\"}",
+                    "optional_info_2": null,
+                    "optional_info_3": null,
+                    "optional_info_4": null,
+                    "optional_info_5": null,
+                    "optional_info_6": null,
+                    "optional_info_7": null,
+                    "optional_info_8": null,
+                    "optional_info_9": null,
+                    "optional_info_10": "{\"decimal_point\":\"1\",\"count_max\":\"1073741823\",\"count_min\":\"0\",\"scale_max\":\"107374182.3\",\"scale_min\":\"0\",\"alarm_max\":\"0\",\"alarm_min\":\"0\",\"alert_max\":\"0\",\"alert_min\":\"0\",\"data_send_cycle_local\":\"60000\",\"trans_addr\":\"1\",\"low_high_dead_val\":\"0\",\"kesson_di\":\"0\",\"kesson_timer\":\"0\",\"filter\":\"_\",\"trans_cycle_msec\":\"3600000\",\"trans_num\":\"60\",\"trans_data_cycle_sec\":\"0\",\"send_flag\":\"0\",\"check_flag\":\"240\"}"
+                },
+                "data_list": [
+                    {
+                        "measure_time": "2023-03-13T16:00:00.0000000+09:00",
+                        "data": "13.6",
+                        "status": "Normal"
+                    },
+                    {
+                        "measure_time": "2023-03-13T16:01:00.0000000+09:00",
+                        "data": "13.6",
+                        "status": "Normal"
+                    },
+                    {
+                        "measure_time": "2023-03-13T16:02:00.0000000+09:00",
+                        "data": "13.7",
+                        "status": "Normal"
+                    }
+                ]
+              ]}]
