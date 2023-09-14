@@ -1,10 +1,10 @@
 [
     {
-        "model_id": "Ether_Modbus",
-        "serial_no": "L9900000000041784",
+        "model_id": "Ether_aaa",
+        "serial_no": "L9900",
         "device_info": {
-            "name_locale1": "Ether_Modbus",
-            "name_locale2": "Ether_Modbus",
+            "name_locale1": "Ether_aaa",
+            "name_locale2": "Ether_aaa",
             "name_locale3": null,
             "optional_info_1": null,
             "optional_info_2": null,
@@ -20,12 +20,12 @@
         },
         "sensor_list": [
             {
-                "sensor_id": "M01001AI0001",
+                "sensor_id": "M01099999",
                 "sensor_info": {
                     "sensor_type": "AI",
                     "data_type": "string",
-                    "name_locale1": "FIA-303PV CLT廃水流量",
-                    "name_locale2": "FIA-303PV CLT廃水流量",
+                    "name_locale1": "廃水流量",
+                    "name_locale2": "廃水流量",
                     "name_locale3": null,
                     "unit_locale1": "m3/h",
                     "unit_locale2": "m3/h",
@@ -36,8 +36,8 @@
                     "decimal_num_locale1": 1,
                     "decimal_num_locale2": 1,
                     "decimal_num_locale3": null,
-                    "max_value_locale1": 107374182.3,
-                    "max_value_locale2": 107374182.3,
+                    "max_value_locale1": 82.3,
+                    "max_value_locale2": 82.3,
                     "max_value_locale3": null,
                     "min_value_locale1": 0,
                     "min_value_locale2": 0,
